@@ -1,0 +1,97 @@
+@font-face {
+    font-family: Fair-Play;
+    src: url(/assets/PlayfairDisplay-VariableFont_wght.ttf);
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #dfdcda;
+    
+}
+.atas{
+    background-image: linear-gradient(to bottom,#b08d553d,#dfdcda);
+    height: 2cm;
+    width: 1340px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+    text-decoration: none;
+    }
+    .navi a{
+        color:#dfdcda;
+        background-color:#B08D55 ;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    .navi2 a{
+        color:#dfdcda;
+        background-color:#B08D55 ;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left:610px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    .navi3 a{
+        color:#dfdcda;
+        background-color:#B08D55 ;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left:1200px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+
+.foto1 img{
+    width: 500px;
+    position: absolute;
+    top: 100px;
+}
+.foto2 img{
+    width: 500px;
+    position: absolute;
+    top: 700px;
+}
+
+.foto3 img{
+    width: 500px;
+    position: absolute;
+    top: 400px;
+    left: 800px;
+}
+
+.foto4 img{
+    width: 500px;
+    position: absolute;
+    top: 1200px;
+    left: 800px;
+}
+
+.foto5 img{
+    width: 500px;
+    position: absolute;
+    top: 1800px;
+}

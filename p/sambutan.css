@@ -1,0 +1,103 @@
+@font-face {
+    font-family: Fair-Play;
+    src: url(/assets/PlayfairDisplay-VariableFont_wght.ttf);
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #dfdcda;
+    
+}
+.nanta img{
+width: 100px;
+position: absolute;
+top: 100px;
+left: 15px;
+border-radius: 50px;
+list-style: none;
+}
+.nanta h1{
+    list-style: none;
+    text-decoration: none;
+    font-family: Fair-Play;
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left:120px;
+    color:#B08D55 ;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+    text-decoration: none;
+    }
+    .navi a{
+        color:#dfdcda;
+        background-color:#B08D55 ;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    .navi2 a{
+        color:#dfdcda;
+        background-color:#B08D55 ;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left:610px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    .navi3 a{
+        color:#dfdcda;
+        background-color:#B08D55 ;
+        border-radius: 50px;
+        position: absolute;
+        font-size: 20px;
+        width: 100px;
+        text-align: center;
+        top: 10px;
+        left:1200px;
+        display:inline-block;
+        font-family:Fair-Play;
+        z-index: 1;
+    }
+    
+.atas{
+    background-image: linear-gradient(to bottom,#b08d553d,#dfdcda);
+    height: 2cm;
+    width: 1360px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.ayla img{
+    width: 100px;
+    border-radius:50px;
+    position: absolute;
+    top:250px;
+    left:15px;
+}
+.ayla h1{
+    list-style: none;
+    text-decoration: none;
+    font-family: Fair-Play;
+    font-size: 20px;
+    position: absolute;
+    top: 270px;
+    left:120px;
+    color:#B08D55 ;
+}
